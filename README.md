@@ -1,10 +1,10 @@
 # exmcoin
 
-Coin Name : EXM Coin
-Coin Symbol :EXM
-Coin type : POW(Proof of Work) + POS(1% 1/year)
-Hash algo :X13
-block time : 60sec 
-reword : 38.58
-block size : 2M
-block time : 60sec
+Coin Name : EXM Coin\n
+Coin Symbol :EXM\n
+Coin type : POW(Proof of Work) + POS(1% 1/year)\n
+Hash algo :X13\n
+block time : 60sec \n
+reword : 38.58\n
+block size : 2M\n
+block time : 60sec\n
