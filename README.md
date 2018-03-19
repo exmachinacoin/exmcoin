@@ -1,6 +1,14 @@
 <h1>EXM Machina Coin</h1>
 
 
+The EXM coin was born for real gold trading. At present (March 2018), Korea Gold Exchange can accept EXM Coin.
+EXM is not really designed for multi-level marketing or scam.
+Currently, EXM coin is allowed in gold transactions only in Korea
+It will be made possible to trade gold in China, Japan, and Vietnam within 2018.
+
+<h3>https://exmcoin.com/korea/</h3>
+
+
 | Specification  | Details |
 | ------------- | ------------- |
 | Protocol  | POW(Proof of Work) + POS(1% 1/year)(PoS)  |
@@ -14,3 +22,13 @@
 | P2P Port | 19228 |
 | Cryptographic Algorithm  | x13  |
 | Difficulty Retarget  | 16 minutes or 8 blocks |
+
+
+<h1>EXM Machina Coin Node</h1>
+159.203.166.191
+159.203.95.74
+138.68.42.42
+
+
+<h1>EXM Machina Coin Block Explore</h1>
+<h1>http://159.203.95.74:3001/</h1>
