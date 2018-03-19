@@ -8,9 +8,17 @@ It will be made possible to trade gold in China, Japan, and Vietnam within 2018.
 
 
 
+
+
 <h1>EXM Machina Coin Website</h1>
 
 <h3>https://exmcoin.com/</h3>
+
+
+<h1>Korea EXM Gold Trading Store</h1>
+https://exmcoin.com/korea/
+
+
 
 
 | Specification  | Details |
