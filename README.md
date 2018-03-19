@@ -6,7 +6,11 @@ EXM is not really designed for multi-level marketing or scam.
 Currently, EXM coin is allowed in gold transactions only in Korea
 It will be made possible to trade gold in China, Japan, and Vietnam within 2018.
 
-<h3>https://exmcoin.com/korea/</h3>
+
+
+<h1>EXM Machina Coin Website</h1>
+
+<h3>https://exmcoin.com/</h3>
 
 
 | Specification  | Details |
@@ -25,10 +29,10 @@ It will be made possible to trade gold in China, Japan, and Vietnam within 2018.
 
 
 <h1>EXM Machina Coin Node</h1>
-| 159.203.166.191 |
-| 159.203.95.74 |
-| 138.68.42.42 |
+159.203.166.191<Br>
+159.203.95.74<Br>
+138.68.42.42<Br>
 
 
 <h1>EXM Machina Coin Block Explore</h1>
-| http://159.203.95.74:3001/ |
+http://159.203.95.74:3001
