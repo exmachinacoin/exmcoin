@@ -1,4 +1,4 @@
-<h1>EXM Machina Coin</h1>
+<h1>EX Machina Coin</h1>
 
 
 The EXM coin was born for real gold trading. At present (March 2018), Korea Gold Exchange can accept EXM Coin.
@@ -10,7 +10,7 @@ It will be made possible to trade gold in China, Japan, and Vietnam within 2018.
 
 
 
-<h1>EXM Machina Coin Website</h1>
+<h1>EX Machina Coin Website</h1>
 
 <h3>https://exmcoin.com/</h3>
 
@@ -44,5 +44,5 @@ https://exmcoin.com/korea/
 138.68.42.42<Br>
 
 
-<h1>EXM Machina Coin Block Explore</h1>
+<h1>EX Machina Coin Block Explore</h1>
 http://159.203.95.74:3001
