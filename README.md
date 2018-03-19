@@ -25,10 +25,10 @@ It will be made possible to trade gold in China, Japan, and Vietnam within 2018.
 
 
 <h1>EXM Machina Coin Node</h1>
-159.203.166.191
-159.203.95.74
-138.68.42.42
+| 159.203.166.191 |
+| 159.203.95.74 |
+| 138.68.42.42 |
 
 
 <h1>EXM Machina Coin Block Explore</h1>
-<h1>http://159.203.95.74:3001/</h1>
+| http://159.203.95.74:3001/ |
